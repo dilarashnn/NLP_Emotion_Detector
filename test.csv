@@ -1,0 +1,1001 @@
+text,emotion,stress_level,risk
+Bu durumdan tiksindim.,iğrenme,yüksek,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,yüksek,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Bugün çok öfkeliyim.,öfke,yüksek,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,yüksek,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,yüksek,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,yüksek,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,yüksek,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,yüksek,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,yüksek,evet
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Bugün çok öfkeliyim.,öfke,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Bugün çok öfkeliyim.,öfke,yüksek,hayır
+"Evdeyim, televizyon izliyorum.",nötr,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+Karanlıktan korkuyorum.,korku,orta,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,orta,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,yüksek,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+Bu durumdan tiksindim.,iğrenme,yüksek,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,evet
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,yüksek,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,yüksek,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,yüksek,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,yüksek,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,yüksek,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Karanlıktan korkuyorum.,korku,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,yüksek,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,yüksek,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Karanlıktan korkuyorum.,korku,orta,hayır
+Bu durumdan tiksindim.,iğrenme,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,yüksek,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,orta,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+İçimde tarif edemediğim bir korku var.,korku,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,yüksek,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,yüksek,evet
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,yüksek,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,yüksek,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,evet
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,evet
+"Yemek yaptım, sonra kitap okudum.",nötr,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Bugün çok öfkeliyim.,öfke,yüksek,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,yüksek,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,yüksek,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,yüksek,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+Bu durumdan tiksindim.,iğrenme,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,yüksek,evet
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,yüksek,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,evet
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+İçimde tarif edemediğim bir korku var.,korku,yüksek,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,evet
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,yüksek,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+İçimde tarif edemediğim bir korku var.,korku,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+Her zamanki gibi işe gittim.,nötr,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,yüksek,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,yüksek,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,yüksek,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Karanlıktan korkuyorum.,korku,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Karanlıktan korkuyorum.,korku,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,yüksek,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,evet
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Karanlıktan korkuyorum.,korku,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,evet
+Kendimi çok kötü hissediyorum.,üzüntü,yüksek,evet
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,orta,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,yüksek,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,yüksek,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,yüksek,evet
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,yüksek,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Karanlıktan korkuyorum.,korku,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,orta,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,yüksek,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,yüksek,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Her şey yolunda gidiyor.,mutluluk,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+Karanlıktan korkuyorum.,korku,yüksek,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,yüksek,evet
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,yüksek,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,orta,hayır
+Karanlıktan korkuyorum.,korku,yüksek,hayır
+İğrenç bir davranıştı.,iğrenme,yüksek,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,yüksek,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,yüksek,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+Her şey yolunda gidiyor.,mutluluk,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,orta,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Bu kadar haksızlığa dayanamıyorum.,öfke,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,yüksek,evet
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,orta,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,orta,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Her zamanki gibi işe gittim.,nötr,yüksek,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,orta,hayır
+Bugün çok öfkeliyim.,öfke,yüksek,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,orta,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,yüksek,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,yüksek,evet
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,yüksek,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Her şey yolunda gidiyor.,mutluluk,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Kendimi çok kötü hissediyorum.,üzüntü,düşük,hayır
+Bu durumdan tiksindim.,iğrenme,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,orta,hayır
+Her zamanki gibi işe gittim.,nötr,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,yüksek,hayır
+Her zamanki gibi işe gittim.,nötr,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,düşük,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,evet
+Bu kadar haksızlığa dayanamıyorum.,öfke,yüksek,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+Bugün çok öfkeliyim.,öfke,yüksek,hayır
+Beklemediğim bir şey oldu.,şaşkınlık,orta,hayır
+Her şey üstüme geliyor gibi.,üzüntü,yüksek,evet
+Hayat anlamsız geliyor.,üzüntü,yüksek,hayır
+"Evdeyim, televizyon izliyorum.",nötr,yüksek,hayır
+İçimde tarif edemediğim bir korku var.,korku,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+Gerçekten mide bulandırıcı.,iğrenme,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"Kimse beni anlamıyor, sinir oldum.",öfke,orta,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,düşük,hayır
+Arkadaşlarımla çok eğlendim.,mutluluk,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,orta,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,yüksek,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,orta,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,yüksek,hayır
+"Bir şey hissetmiyorum, sadece rutin.",nötr,düşük,hayır
+Bugün çok öfkeliyim.,öfke,düşük,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,orta,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+İçimde tarif edemediğim bir korku var.,korku,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,yüksek,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,yüksek,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Bugün hava normal, sıradan bir gün.",nötr,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+Biri beni takip ediyor gibi hissediyorum.,korku,orta,hayır
+Gerçekten mide bulandırıcı.,iğrenme,yüksek,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,düşük,hayır
+Karanlıktan korkuyorum.,korku,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,düşük,hayır
+Hiçbir şey yapmak istemiyorum.,üzüntü,düşük,hayır
+"Buna inanamadım, çok şaşkınım.",şaşkınlık,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,yüksek,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,düşük,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+O kadar kötüydü ki bakamadım bile.,iğrenme,orta,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,orta,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+"İçim neşe dolu, harika hissediyorum.",mutluluk,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+Bunu görmek istemiyorum.,iğrenme,yüksek,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,orta,hayır
+"Evdeyim, televizyon izliyorum.",nötr,düşük,hayır
+Her şey üstüme geliyor gibi.,üzüntü,düşük,hayır
+İğrenç bir davranıştı.,iğrenme,orta,hayır
+Bunu görmek istemiyorum.,iğrenme,orta,hayır
+Hayat anlamsız geliyor.,üzüntü,düşük,hayır
+"Yemek yaptım, sonra kitap okudum.",nötr,yüksek,hayır
+"Ne olduğunu anlayamadım, gerçekten şaşırdım.",şaşkınlık,düşük,hayır
+Bugün gerçekten çok mutluyum.,mutluluk,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+Hayatımın en güzel gününü yaşıyorum.,mutluluk,orta,hayır
+Gerçekten böyle olacağını hiç düşünmemiştim.,şaşkınlık,yüksek,hayır
+Bu durumdan tiksindim.,iğrenme,düşük,hayır
+Ne kadar garip bir durum!,şaşkınlık,düşük,hayır
+"Bağırmak istiyorum, içimde çok öfke var.",öfke,düşük,hayır
+"Artık yeter, daha fazla dayanamayacağım!",öfke,orta,hayır
+"İçim sıkılıyor, her şey boş.",üzüntü,düşük,hayır
+"Kalbim çok hızlı atıyor, endişeliyim.",korku,yüksek,hayır
+Bir şey olacak diye çok korkuyorum.,korku,yüksek,hayır
+Bugün çok öfkeliyim.,öfke,orta,hayır
+Bir şey olacak diye çok korkuyorum.,korku,düşük,hayır
